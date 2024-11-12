@@ -11,3 +11,8 @@ git add README.md fichier1.txt fichier2.txt
 git commit -m "Premier commit : ajout de README, fichier1 et
 fichier2"
 Étape 5 : Pousser les Mod
+
+modifier
+je modifie
+il modifie
+nous modifions
