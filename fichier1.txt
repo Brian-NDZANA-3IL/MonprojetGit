@@ -1,0 +1,20 @@
+Étape 4 : Créer des Fichiers et Faire un Premier Commit
+4.1. Création et ajout de plusieurs fichiers
+1. Dans le dossier MonProjetGit, créez un fichier README.md et écrivez une courte
+description du projet.
+2. Créez également un fichier fichier1.txt et un fichier fichier2.txt, en ajoutant du
+contenu simple dans chaque fichier.
+3. Ajoutez tous les fichiers au suivi Git :
+git add README.md fichier1.txt fichier2.txt
+4.2. Faire un premier commit
+1. Enregistrez les fichiers dans un commit :
+git commit -m "Premier commit : ajout de README, fichier1 et
+fichier2"
+Étape 5 : Pousser les Mod
+
+modifier
+je modifie
+il modifie
+nous modifions
+
+je teste la nouvelle focntionnalite

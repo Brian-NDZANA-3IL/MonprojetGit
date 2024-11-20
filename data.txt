@@ -1,0 +1,6 @@
+<<<<<<< .merge_file_6nGUmh
+« Ligne ajoutée par feature-a »
+=======
+Ligne feature-b
+
+>>>>>>> .merge_file_IuphH7
